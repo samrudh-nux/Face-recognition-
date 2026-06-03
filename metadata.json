@@ -1,0 +1,8 @@
+{
+  "name": "Face Recognition Attendance System",
+  "description": "High-fidelity attendance management system featuring live camera face scanning, biometric verification, student enrollment, and detailed analytical reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
